@@ -34,7 +34,7 @@
  * | ESC   |   Q   |   W   |   E   |   R   |   T   |-----------------------------------|   Y   |   U   |   I   |   O   |   P   | BKSPC |
  * | TAB   |   A   |   S   |   D   |   F   |   G   |-----------------------------------|   H   |   J   |   K   |   L   |   ;   | ENTER |
  * | SHIFT |   Z   |   X   |   C   |   V   |   B   |   '   |-------------------|   /   |   N   |   M   |   ,   |   .   |  Up   | SHIFT |
- * | CTRL  |  GUI  | CAPS  |-------|  ALT  |  Sym  |SK SHFT| DELETE|---| BKSPC | SPACE |  NUM  | CTRL  |-------| Left  | Down  | Right |
+ * | CTRL  |  GUI  | CAPS  |-------|  ALT  |  Sym  |SK SHFT| DELETE|---| BKSPC | SPACE |  Num  | CTRL  |-------| Left  | Down  | Right |
  */
                         bindings = <
 &kp  ESC      &kp  Q        &kp  W        &kp  E        &kp  R        &kp  T                                                                         &kp  Y        &kp  U        &kp  I        &kp  O        &kp  P        &kp  BSPC
